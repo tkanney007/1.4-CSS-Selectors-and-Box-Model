@@ -1,0 +1,16 @@
+header li {
+  color: aliceblue;
+  background-color: blue;
+  display: inline;
+}
+.first2 {
+  color: yellow;
+  background-color: purple;
+}
+#sect4 {
+  color: green;
+}
+
+#sect3 {
+  background-color: blue;
+}
